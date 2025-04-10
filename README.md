@@ -15,9 +15,8 @@ O sistema original possuía problemas como ausência de validações, alta compl
 - ✔️ Estratégia de frete com interface `CalculadoraDeFrete`
 - ✔️ Padrão de projeto **Strategy** aplicado
 - ✔️ Injeção de dependência via construtor (`ServicoDeEtiqueta`)
-- ✔️ Exceção personalizada para tratamento robusto de erros
 - ✔️ Substituição de estruturas rígidas (`if-else`) por polimorfismo
-- ✔️ Testes automatizados com JUnit 5
+
 
 
 ✍️ Desenvolvedora
